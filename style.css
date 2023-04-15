@@ -1,0 +1,111 @@
+/* Title */
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+    padding: 0% 15%;
+
+}
+
+h1 {
+    font-family: "Poppins", "sans-serif";
+    line-height: 1.5;
+    font-size: 3.5rem;
+    font-weight: bolder;
+    color: #fff;
+
+}
+
+.rotate {
+    transform: rotate(25deg);
+    position: relative;
+    z-index: 2;
+}
+
+.navbar {
+    padding: 5% 5%;
+}
+
+.navbar-brand {
+    font-family: "Poppins", "sans-serif";
+    font-size: 3.5rem;
+}
+
+.nav-item {
+    font-size: 1.5rem;
+    font-weight: lighter;
+    font-weight: bold;
+}
+
+/* Feature section */
+#Features {
+    text-align: center;
+    padding: 7% 15%;
+    background-color: #fff;
+}
+
+.icon {
+    color: #ef8172;
+}
+
+/* Testimonials Section */
+#testimonials {
+    background-color: #ef8172;
+    padding: 7% 15%;
+    color: #fff;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Poppins", sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.5;
+    color: black;
+    text-align: center;
+}
+
+.testimonials-image {
+    width: 10%;
+    border-radius: 100%
+}
+
+em {
+    font-style: italic;
+}
+
+/* Press Section */
+#press {
+    background-color: #ef8172;
+    text-align: center;
+}
+
+.press-logo {
+    width: 10%;
+    margin: 20px 20px 50px;
+}
+
+/* Pricing Section */
+#pricing {
+    padding: 6% 15%;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+/* Section CTA */
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 7% 15%;
+}
+.social{
+    text-align: center;
+    padding: 5% 5%;
+}
+.social-icons{
+    padding: 2% 2%;
+    color: #343a40;
+}
